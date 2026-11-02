@@ -1,4 +1,4 @@
 PASCHY_DAILY_SYNC_V1
-updated=2026-11-02T08:31:49.689Z
+updated=2026-11-02T09:07:19.332Z
 Paschy Daily Wächter|stündlich 06–22 Uhr|active
 Paschy Daily Morgenbericht|08:00 Uhr|active
